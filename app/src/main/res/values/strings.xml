@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Theater of War</string>
+    <string name="b_back">Back</string>
+    <string name="b_fight">Fight</string>
+    <string name="welcome_text">Welcome to the Theater of War, place where heroes are fighting for honor and glory.</string>
+    <string name="choose_hero_text">Choose your hero, opponent will be selected randomly.</string>
+</resources>
