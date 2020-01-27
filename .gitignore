@@ -1,13 +1,27 @@
+# Eclipse
+.classpath
+.project
+.settings/
+ 
+# Intellij
+.idea/
 *.iml
+*.iws
+/out/
+ 
+# Mac
+.DS_Store
+ 
+# Maven
+log/
+target/
+
+# VCS
+*.log
+*.iml
+
 .gradle
 /local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
-.DS_Store
 /build
 /captures
 .externalNativeBuild
